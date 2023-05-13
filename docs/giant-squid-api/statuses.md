@@ -2,12 +2,12 @@
 sidebar_position: 200
 title: Status page
 description: >-
-  Giant Squid API endpoints statuses
+  Giant Squid API endpoints&#39; statuses
 ---
 
 # API Status
 
-Here you can find list of all Giant Squid API supproted chains and see live statuses of their indexation
+The API Status Page provides an overview of all Giant Squid API supported chains, including the live indexation status of each chain.  Status of both Explorer indexation and Statistics indexation are linked where both are available for that chain.
 
 | Chain | API endpoints | Explorer API status | Stats API status | Main status | Main features|
 | :-: | :-: | :-: | :-: | :-: | :-: |
