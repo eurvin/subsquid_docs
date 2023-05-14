@@ -4,7 +4,7 @@ sidebar_position: 300
 title: Status Page
 hide_title: true
 description: >-
-Giant Squid API endpoints statuses
+    Giant Squid API endpoints statuses
 
 ---
 
